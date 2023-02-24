@@ -21,7 +21,7 @@ const data = [
 { id: 19, name: 'Ariens', power: 20, autonomy: '1 hour', energy: 'Gasoline' },
 ];
 
-const writeStream = fs.createWriteStream('/Users/theorobert/Desktop/dc5_b_Robert_Theo/Node/exo2/data.csv');
+const writeStream = fs.createWriteStream('/Users/theorobert/Desktop/scrapping/dc5b_clean_td_ROBERT_Theo/exo2/tondeuse.csv');
 writeStream.write('Id, Nom de la tondeuse, Puissance, Autonomie, Energie\n');
 data.forEach( (row) => {
 writeStream.write(`${row.id},${row.name},${row.power},${row.autonomy},${row.energy}\n`);
