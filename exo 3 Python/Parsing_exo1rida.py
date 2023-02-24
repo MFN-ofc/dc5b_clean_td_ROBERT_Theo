@@ -29,4 +29,4 @@ fichier = fichier[fichier['Series_title_2'].str.contains('^(Credit|Debit|Service
 fichier = fichier.reset_index(drop=True)
 fichier.index.name = 'ID'
 #fichier final
-fichier.to_csv('result.csv', header=headercsv, index=True)
+fichier.to_csv('/Users/theorobert/Desktop/scrapping/dc5b_clean_td_ROBERT_Theo/exo 3 Python/result.csv', header=headercsv, index=True)
