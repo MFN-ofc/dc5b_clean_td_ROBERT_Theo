@@ -1,0 +1,21 @@
+Id, Nom de la tondeuse, Puissance, Autonomie, Energie
+1,Philipps,40,3 hours,4000GHz
+2,GreenWorks,40,2 hours,40V
+3,Black+Decker,20,1 hour,36V
+4,Honda,25,1.5 hours,Gasoline
+5,Toro,30,2 hours,Gasoline
+6,Makita,40,3 hours,40V
+7,WORX,20,1 hour,20V
+8,Craftsman,35,2 hours,Gasoline
+9,Snapper,25,1.5 hours,Gasoline
+10,Ego Power+,40,3 hours,56V
+11,Kobalt,20,1 hour,40V
+12,RYOBI,30,2 hours,40V
+13,Cub Cadet,25,1.5 hours,Gasoline
+14,Briggs & Stratton,40,3 hours,Gasoline
+15,DEWALT,20,1 hour,20V
+16,Poulan Pro,35,2 hours,Gasoline
+17,LawnMaster,25,1.5 hours,40V
+18,Swisher,40,3 hours,Gasoline
+19,Ariens,20,1 hour,Gasoline
+20,Earthwise,30,2 hours,40V
